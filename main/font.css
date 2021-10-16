@@ -1,0 +1,169 @@
+/* 
+font-setup section ( Proxima)
+================================================================
+
+*/
+
+/*
+
+ProximaItalic
+*/
+@font-face {
+    font-family:"ProximaItalic";
+    src: url(../fonts/Proxima\ Nova\ Bold\ Italic.otf);
+  }
+  
+  
+  /*
+  
+  ProximaLight
+  */
+  
+  @font-face {
+    font-family: ProximaLight;
+    src: url(../fonts/Proxima\ Nova\ Light.otf);
+  }
+  
+  
+  /*
+  
+  ProximaSemibold
+  */
+  
+  @font-face {
+    font-family: ProximaSemibold;
+    src: url(../fonts/Proxima\ Nova\ Semibold.otf);
+  }
+  
+  
+  /*
+  
+  ProximaSemiboldItalic
+  */
+  
+  @font-face {
+    font-family: ProximaSemiboldItalic;
+    src: url(../fonts/Proxima\ Nova\ Semibold\ Italic.otf);
+  }
+  
+  
+  /*
+  
+    font-family: ProximaNovaBlack;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaBlack;
+    src: url(../fonts/ProximaNova-Black.otf);
+  }
+  
+  
+  /*
+  
+    font-family: ProximaNovaBlackIt;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaBlackIt;
+    src: url(../fonts/ProximaNova-BlackIt.otf);
+  }
+  
+  
+  
+  /*
+  
+    font-family: ProximaNovaBold;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaBold;
+    src: url(../fonts/ProximaNova-Bold.otf);
+  }
+  
+  
+  
+  
+  /*
+  
+    font-family: ProximaNovaExtrabldIt;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaExtrabldIt;
+    src: url(../fonts/ProximaNova-ExtrabldIt.otf);
+  }
+  
+  
+  
+  /*
+  
+    font-family: ProximaNovaExtrabold;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaExtrabold;
+    src: url(../fonts/ProximaNova-Extrabold.otf);
+  }
+  
+  
+  
+  
+  
+  /*
+  
+    font-family: ProximaNovaLightItalic;
+  
+  */
+  
+  @font-face {
+    font-family: ProximaNovaLightItalic;
+    src: url(../fonts/ProximaNova-LightItalic.otf);
+  }
+  
+  
+  /*
+  
+    font-family: ProximaNovaReg;
+  
+  */
+  
+  @font-face {
+    font-family:ProximaNovaReg;
+    src: url(../fonts/ProximaNova-Reg.otf);
+  }
+  
+  
+  
+  
+  
+  /*
+  
+    font-family: ProximaNovaReg;
+  
+  */
+  
+  @font-face {
+    font-family:ProximaNovaThin;
+    src: url(../fonts/ProximaNova-Thin.otf);
+  }
+  
+  
+  /*
+  
+    font-family: ProximaNovaThinIt;
+  
+  */
+  
+  @font-face {
+    font-family:ProximaNovaThinIt;
+    src: url(../fonts/ProximaNova-ThinIt.otf);
+  }
+  
+  
+  
+  
