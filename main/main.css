@@ -239,6 +239,13 @@ div.h{
 
 }
 
+.web-text{
+  display: block;
+}
+
+.mobile-text{
+  display: none;
+}
 
 /* 
 Responive section
@@ -289,5 +296,12 @@ Responive section
   height: auto;
  padding: 0%;
 }
+.web-text{
+  display: none;
+}
+.mobile-text{
+  display: block;
+}
+
 
 }
